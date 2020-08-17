@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+}
+.main{
+    width: 100%;
+    
+}
+.container{
+    width:75%;
+    margin: 0 auto;
+    
+}
+.top{
+    height:85px;
+    width:100px;
+    background: #385998;
+}
+.logo{
+    float: left;
+}
